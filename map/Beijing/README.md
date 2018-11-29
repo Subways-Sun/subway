@@ -38,7 +38,7 @@
 
 + **Logo**: The logo of Beijing Subway
 + **v1**: Version 1 maps with all **Lines** and **Stations**
-+ **v2 No Name**: Version 2 maps with all **Lines** and **Stations**, but the **Stations** have their names *Removed*
++ **v2 No Name**: Version 2 maps with all **Lines** and **Stations**, but the **Stations** have their names ***REMOVED***
 + **v2 Only Line**: Version 2 maps with all **Lines** and ***NO*** **Stations**
 + **v2**: Version 2 maps with all **Lines** and **Stations**
 + **v3**: Version 3 maps ***Still in Progress***
