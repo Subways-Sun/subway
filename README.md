@@ -1,6 +1,6 @@
 # Subways-Sun's Subway Map Project
 
-Beijing Map
+## Beijing Map
 
 Version 3  Still in Progress
 
@@ -20,12 +20,11 @@ Version 1  Released on February 28, 2018
 
 	Featuring Plans for 2018, 2019, 2020
 	Featuring Historical Maps from 1971 through 2017
-#
 
-Hong Kong Map
+## Hong Kong Map
 
 Version 1  Still in Progress
-#
 
-Minecraft Map
+## Minecraft Map
 
+Version 1  Released on
