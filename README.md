@@ -10,7 +10,7 @@
 
 **Update Notes**
 
-    + Fixed Haojiafu Station in 2017 and 2018 Map
+    * Fixed Haojiafu Station in 2017 and 2018 Map
 
 ---
 
@@ -20,10 +20,10 @@
 
     + Added Plan for 2021
     + Updated Plan for 2020
-    + Optimized Fangshan Line Graphics
-    + Optimized Station Names
-    + Optimized Station Graphics
-    + Optimized Transfer Station Graphics
+    * Optimized Fangshan Line Graphics
+    * Optimized Station Names
+    * Optimized Station Graphics
+    * Optimized Transfer Station Graphics
 
 ---
 
