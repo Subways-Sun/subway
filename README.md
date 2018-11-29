@@ -20,6 +20,7 @@
 
     + Added Plan for 2021
     + Updated Plan for 2020
+    + Updated Station Names for 2018 Plan
     * Optimized Fangshan Line Graphics
     * Optimized Station Names
     * Optimized Station Graphics
