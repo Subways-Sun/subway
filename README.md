@@ -10,7 +10,7 @@
 
 **Update Notes**
 
-	Fixed Haojiafu Station in 2017 Map
+	Fixed Haojiafu Station in 2017 and 2018 Map
 
 ---
 
