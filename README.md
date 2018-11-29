@@ -47,8 +47,6 @@
 
     + Featuring the Subway Map in a Minecraft world by xiaolong2011
 
----
-
 ## Special Thanks
 
 + **地铁族Ditiezu** *@下一站永丰*  for offering plans of 2019, 2020, and 2021
