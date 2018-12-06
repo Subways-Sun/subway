@@ -49,4 +49,4 @@
 
 ## Special Thanks
 
-+ **地铁族Ditiezu** *@下一站永丰*  for offering plans of 2019, 2020, and 2021
++ **地铁族Ditiezu** *@下一站永丰* for offering plans of 2019, 2020, and 2021
