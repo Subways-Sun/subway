@@ -2,7 +2,7 @@
 
 **Version 1**  Released on *March 6, 2018*
 
-**Update Notes**
+**Release Notes**
 
     + Featuring the Subway Map in a Minecraft world by xiaolong2011
 

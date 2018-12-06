@@ -8,7 +8,7 @@
 
 **Version 2**  Updated on *November 26, 2018*
 
-**Update Notes**
+**Release Notes**
 
     * Fixed Haojiafu Station in 2017 and 2018 Map
 
@@ -16,7 +16,7 @@
 
 **Version 2**  Released on *August 20, 2018*
 
-**Update Notes**
+**Release Notes**
 
     + Added Plan for 2021
     + Updated Plan for 2020
@@ -30,7 +30,7 @@
 
 **Version 1**  Released on *February 28, 2018*
 
-**Update Notes**
+**Release Notes**
 
     + Featuring Plans for 2018, 2019, 2020
     + Featuring Historical Maps from 1971 through 2017
@@ -43,7 +43,7 @@
 
 **Version 1**  Released on *March 6, 2018*
 
-**Update Notes**
+**Release Notes**
 
     + Featuring the Subway Map in a Minecraft world by xiaolong2011
 
