@@ -1,11 +1,12 @@
-# Minecraft Map
+# Minecraft Map Update Notes
 
-**Version 1**  Released on *March 6, 2018*
+### **2017**
 
-**Release Notes**
+    + Line 1 (Yike Song -- Beixiao Kou)
+    + Line 2 (Dongdao Gou -- Nizhao)
+    + Line 3 (Nan Shatan -- Nizhao)
+    + Line 6 (Beixiao Kou -- Jiu Dong / Death Science Park)
 
-    + Featuring the Subway Map in a Minecraft world by xiaolong2011
+# Minecraft Map Plans
 
-**Contents of Each Folder**
-
-+ **v1**: Version 1 maps with all **Lines** and **Stations**
+    Currently No Plans Available
