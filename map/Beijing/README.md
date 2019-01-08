@@ -28,9 +28,7 @@
 
 **Yanfang Line** ***Main Line*** (Yancun Dong (East) -- Yanshan)
 
----
-
-**December 31, 2016**
+## **December 31, 2016**
 
 **Line 14** **Chaoyang Park** Opened
 
@@ -38,9 +36,7 @@
 
 **Line 16** ***Part 1*** (Xi Yuan -- Bei'an He) *(Exclude. Nongda Nanlu)*
 
----
-
-**December 26, 2015**
+## **December 26, 2015**
 
 **Line 8** **Andeli Beijie** Opened
 
@@ -50,9 +46,7 @@
 
 **Changping Line** ***Part 2*** (Nan Shao -- Changping Xishankou)
 
----
-
-**December 28, 2014**
+## **December 28, 2014**
 
 **Line 6** ***Part 2*** (Cao Fang -- Lu Cheng) *(Exclude. Tongyun Men, Beiyun He Dong (East))*
 
@@ -62,29 +56,21 @@
 
 **Line 15** ***Part 2 (West)*** (Wangjing Xi (West) -- Qinghua Donglu Xikou) *(Exclude. Datun Lu Dong (East))*
 
----
-
-**February 15, 2014**
+## **February 15, 2014**
 
 **Line 14** **Qili Zhuang** Opened
 
----
-
-**December 28, 2013**
+## **December 28, 2013**
 
 **Line 8** ***CP-8 Connection*** (Huilongguan Dongdajie -- Zhuxin Zhuang)
 
 **Line 8** ***Part 2 (South)*** (Gulou Dajie -- National Art Museum) *(Exclude. National Art Museum)*
 
----
-
-**December 21, 2013**
+## **December 21, 2013**
 
 **Line 9** **Military Museum** Opened
 
----
-
-**May 5, 2013**
+## **May 5, 2013**
 
 **Line 10** ***Part 2*** (Xi Ju -- Shoujingmao)
 
@@ -92,9 +78,7 @@
 
 **Line 14** ***West Part*** (Xi Ju -- Zhangguo Zhuang) *(Exclude. Qili Zhuang)*
 
----
-
-**December 30, 2012**
+## **December 30, 2012**
 
 **Line 6** ***Part 1*** (Haidian Wuluju -- Cao Fang)
 
@@ -104,9 +88,7 @@
 
 **Line 10** ***Part 2*** (Jin Song -- Shoujingmao) (Ba Gou -- Xi Ju) *(Exclude. Jiao Men Dong (East))*
 
----
-
-**December 31, 2011**
+## **December 31, 2011**
 
 **Line 8** ***Part 2 (North)*** (South Gate Of Forest Park -- Huilong Guan Dongdajie)
 
@@ -116,9 +98,7 @@
 
 **Fangshan Line** **Guogong Zhuang** Opened
 
----
-
-**December 30, 2010**
+## **December 30, 2010**
 
 **Line 4** ***Daxing Line*** (Gongyi Xiqiao -- Tiangong Yuan)
 
@@ -132,15 +112,11 @@
 
 **Yizhuang Line** (Songjia Zhuang -- Yizhuang Railway Station) *(Exclude. Yizhuang Railway Station)*
 
----
-
-**September 28, 2009**
+## **September 28, 2009**
 
 **Line 4** **(Gongyi Xi Qiao -- Anhe Qiao Bei (North))**
 
----
-
-**July 19, 2008**
+## **July 19, 2008**
 
 **Line 8** ***Olympic*** (Beitu Cheng -- South Gate Of Forest Park)
 
@@ -148,88 +124,62 @@
 
 **Airport Express** (Dongzhi Men -- Beijing Captial International Airport)
 
----
-
-**October 7, 2007**
+## **October 7, 2007**
 
 **Line 5** (Songjia Zhuang -- Tiantong Yuan Bei (North))
 
----
-
-**December 27, 2003**
+## **December 27, 2003**
 
 **Batong Line** (Si Hui -- Tu Qiao)
 
----
-
-**January 28, 2003**
+## **January 28, 2003**
 
 **Line 13** ***East Part*** (Huo Ying -- Dongzhi Men)
 
----
-
-**September 28, 2002**
+## **September 28, 2002**
 
 **Line 13** ***West Part*** (Xizhi Men -- Huo Ying)
 
----
-
-**June 28, 2000**
+## **June 28, 2000**
 
 **Line 1** ***Connection*** (Xi Dan -- Tian'an Men Xi (West))
 
----
-
-**September 28, 1999**
+## **September 28, 1999**
 
 **Line 1** ***Fu-Ba Line*** (Tian'an Men Xi (West) -- Si Hui Dong (East))
 
----
-
-**December 12, 1992**
+## **December 12, 1992**
 
 **Line 1** ***Extension*** (Fuxing Men -- Xi Dan)
 
----
-
-**December 24, 1987**
+## **December 24, 1987**
 
 **Reorganization of Beijing Railway Station Line and Loop Line**
 
-  **Rename:** Beijing Railway Station Line --> Line 1
+**Rename:** Beijing Railway Station Line --> Line 1
 
-  **Rename:** Loop Line --> Line 2
+**Rename:** Loop Line --> Line 2
 
-  **Line 1** (Pingguo Yuan -- Fuxing Men)
+**Line 1** (Pingguo Yuan -- Fuxing Men)
 
-  **Line 2** (Xizhi Men -- Xizhi Men) *(Loop)*
+**Line 2** (Xizhi Men -- Xizhi Men) *(Loop)*
 
----
-
-**September 20, 1984**
+## **September 20, 1984**
 
 **Loop Line** (Fuxing Men -- Jianguo Men)
 
----
-
-**April 23, 1973**
+## **April 23, 1973**
 
 **Beijing Railway Station Line** ***Extension*** (Pingguo Yuan -- Gu Cheng)
 
----
-
-**November 7, 1971**
+## **November 7, 1971**
 
 **Beijing Railway Station Line** ***Extension*** (Gu Cheng -- Yuquan Lu)
 
----
-
-**August 15, 1971**
+## **August 15, 1971**
 
 **Beijing Railway Station Line** ***Extension*** (Yuquan Lu -- Gongzhu Fen)
 
----
-
-**January 15, 1971**
+## **January 15, 1971**
 
 **Beijing Railway Station Line** (Gongzhu Fen -- Beijing Railway Station)
