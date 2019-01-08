@@ -7,7 +7,7 @@
 **Release Notes**
 
     + Updated to 2018 Version Map
-        - Map without Pingguoyuan (Line 1)
+        - Map without Pingguo Yuan (Line 1)
 
 ---
 
@@ -18,11 +18,11 @@
     + Updated to Pending 2018 Version Map
         + Line 6 West Part (Tian Cun -- Jin'an Qiao)
         + Line 8 Part 3 and 4 (Zhushi Kou -- Yinghai)
-        * Line 6 (Beiyunhe East)
-        * Line 7 (Fatou)
-        * Line 8 (National Art Museum)
+        * Line 6 Beiyunhe Dong (East)
+        * Line 7 Fa Tou
+        * Line 8 National Art Museum
         * Yizhuang Line (Yizhuang Railway Station)
-        * Two Versions of Pingguoyuan (Line 1) to avoid ambiguity
+        * Two Versions of Pingguo Yuan (Line 1) to avoid ambiguity
     * Fixed Yizhuang Railway Station in 2010 -- 2017 Maps
 
 ---
