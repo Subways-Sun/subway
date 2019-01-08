@@ -1,8 +1,6 @@
 # Beijing Subway Update Notes
 
-**December 30, 2018**
-
-
+## **December 30, 2018**
 
 **Line 6** ***Part 3*** (Haidian Wuluju -- Jin'an Qiao) *(Exclude. Pingguo Yuan)*
 
