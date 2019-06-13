@@ -2,6 +2,20 @@
 
 ## Beijing Map
 
+**Version 2.5** Updated on *June 13, 2019*
+
+**Release Notes**
+
+    * Fixed Line 8 Identification in maps from 2008 to 2020 (Plan) (Exclude 2018)
+
+**Version 2.4** Updated on *May 15, 2019*
+
+**Release Notes**
+
+    + Added Map for 2019.9.30
+    + Added Plan Map for 2022
+    * Updated Plans for 2019, 2020, and 2021
+
 **Version 2.3**  Updated on *December 29, 2018*
 
 **Release Notes**
@@ -21,9 +35,9 @@
         * Line 6 Beiyunhe Dong (East)
         * Line 7 Fa Tou
         * Line 8 National Art Museum
-        * Yizhuang Line (Yizhuang Railway Station)
+        * Yizhuang Line Yizhuang Railway Station
         * Two Versions of Pingguo Yuan (Line 1) to avoid ambiguity
-    * Fixed Yizhuang Railway Station in 2010 -- 2017 Maps
+    * Fixed Yizhuang Railway Station showing in 2010 -- 2017 Maps
 
 ---
 
@@ -31,11 +45,11 @@
 
 **Release Notes**
 
-    * Fixed Haojiafu Station in 2017 and 2018 maps
+    * Fixed Haojiafu Station not showing in 2017 and 2018 maps
 
 ---
 
-**Version 2**  Released on *August 20, 2018*  Based on **Version 1**
+**Version 2**  Released on *August 20, 2018*  (Based on **Version 1**)
 
 **Release Notes**
 
@@ -80,4 +94,4 @@
 
 ## Special Thanks
 
-+ **地铁族Ditiezu** *@下一站永丰* for offering plans of Beijing 2019, 2020, and 2021
++ **地铁族Ditiezu** *@下一站永丰* for offering plans of Beijing 2019, 2020, 2021, and 2022
